@@ -1,3 +1,5 @@
+import copy
+
 class StdClass(object):
     """
     Class for giving dot access to a dictionary
